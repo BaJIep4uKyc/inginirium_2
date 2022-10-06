@@ -8,4 +8,4 @@ cars = ['Mercedes', 'KIA', 'LADA', 'Tesla', 'Hyundai', 'Wolksvagen']
 a = random.randint(0,5)
 
 #Выводим модель
-print(cars[a])
+print(f*'Я хотел бы приобрести себе {cars[a]}')
